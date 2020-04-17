@@ -1,0 +1,145 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.profile-image {
+  padding-top: 2em;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+h1 {
+  width: 25%;
+  margin: 50px auto 0 auto;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 6rem;
+  color: #66BFBF;
+  line-height: 2.5;
+}
+
+h2 {
+  font-family: 'Poiret One', cursive;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2;
+  margin: 30px auto;
+}
+
+h3 {
+  font-family: 'Poiret One', cursive;
+  color: #11999E;
+  margin: 30px auto;
+}
+
+p {
+  margin-top: auto;
+  line-height: 2;
+
+}
+
+hr {
+
+  background-color: inherit;
+  border-style: dotted none none none;
+  border-color: #85a392;
+  border-width: 7px;
+  height: 2px;
+  width: 3%;
+  margin: 100px auto;
+
+}
+
+.top-container {
+  background-color: #ffecc7;
+}
+
+.bottom-container {
+  background-color: #ffecc7;
+  padding: 30px 0 20px;
+  line-height: 5em;
+}
+
+.img-cassette {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.img-radio {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-cloud {
+  position: relative;
+  padding-top: 50px;
+  left: 200px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 500px;
+  bottom: 650px;
+}
+
+.contact-me {
+  margin: 50px auto;
+}
+
+.btn {
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	background-color:#ffffff;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size:18px;
+	font-weight:bold;
+	padding:8px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+	background-color:#f6f6f6;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.footer-link {
+  color: #85a392;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 20px;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+
+.footer-link:hover {
+  color: #f5b971;
+}
+
+.copyright {
+color: #85a392;
+font-size: 0.75rem
+
+}
